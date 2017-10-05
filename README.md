@@ -14,7 +14,7 @@
 ### Использование
 
 ```
-wget -O fix.sh https
+wget -O fix.sh https://raw.githubusercontent.com/vscale/mysql-sys-maint-user-pwd/master/fix.sh
 sudo bash fix.sh
 ```
 
